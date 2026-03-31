@@ -1,0 +1,41 @@
+.contenedorCentro {
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: center;
+}
+
+.receta h4 {
+    font-weight: 1800;
+}
+
+img {
+    outline-width: 10;
+    outline-color: white;
+    outline: auto;
+}
+
+.receta {
+    justify-content: center;
+    text-align: center;
+    background-color: aquamarine;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    outline-width: 10;
+    outline-color: white;
+    outline: auto;
+}
+.centroGigante {
+    font-size: 80;
+}
+
+html {
+    margin: 0;
+    height: 100v;
+    font-family: 'Courier New', Courier, monospace;
+    background: radial-gradient(circle, red, rgb(4, 255, 255), yellow);
+}
+
+body {
+    padding-left: 5%;
+    padding-right: 5%;
+}
